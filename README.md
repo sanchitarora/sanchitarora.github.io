@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+Hey there! Namaste :pray: 
 
-You can use the [editor on GitHub](https://github.com/sanchitarora/sanchitarora.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Sanchit Arora, Machine Learning Researcher/Engineer living in the Seattle area. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently Lead Researcher at [Axon](https://www.axon.com/) in the [Axon AI](https://www.axon.com/info/ai) group. 
 
-### Markdown
+Previously, I was co-founder and CTO of [Dextro](https://www.crunchbase.com/organization/dextro), where we built computer vision systems that let anyone analyze and filter videos and livestreams.
+
+I completed my M.S. in Robotics at the [GRASP lab at University of Pennsylvania](https://www.grasp.upenn.edu/) working with [Prof. Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/) and my bachelor degree at [IIT Delhi](http://www.iitd.ac.in/)
+
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -35,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ -->

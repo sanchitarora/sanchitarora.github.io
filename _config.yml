@@ -1,1 +1,7 @@
+title: Sanchit Arora
+logo: /assets/img/profile.jpeg
+description: Travel not because some place is more beautiful than the other but to realize that there is beauty everywhere!
+show_downloads: false
 theme: jekyll-theme-minimal
+gems:
+  - jemoji
